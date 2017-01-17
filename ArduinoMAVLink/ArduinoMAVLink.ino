@@ -2,7 +2,7 @@
 
 #include <FastSerial.h>
 #include <Arduino.h>
-#include "../mavlink/include/mavlink.h"        // Mavlink interface
+#include <mavlink.h>        // Mavlink interface
 
  
 
