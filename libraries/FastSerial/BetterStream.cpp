@@ -17,7 +17,7 @@
 // Stream extensions////////////////////////////////////////////////////////////
 
 void
-BetterStream::print_P(const prog_char *s)
+BetterStream::print_P(const char *s)
 {
         char    c;
 
