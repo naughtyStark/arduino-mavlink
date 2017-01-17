@@ -1,6 +1,7 @@
 // Arduino MAVLink test code.
 
 #include <FastSerial.h>
+#include <Arduino.h>
 #include "../mavlink/include/mavlink.h"        // Mavlink interface
 
  
